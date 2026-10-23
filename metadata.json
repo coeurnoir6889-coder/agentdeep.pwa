@@ -1,0 +1,6 @@
+{
+  "name": "agentDeep",
+  "description": "Ton cerveau externe, sans filtre. PWA offline-first avec gestion de tâches Eisenhower, révisions FASEG spaced repetition et agent IA ENTP aux 6 rôles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
